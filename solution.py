@@ -40,13 +40,13 @@
 
 # p1t26
 
-answer1 = "you can go a scary ride!"
-answer2 = "maybe try a smaller ride."
+# answer1 = "you can go a scary ride!"
+# answer2 = "maybe try a smaller ride."
 
-user_name = input("What is your name?")
-user_age = int(input("How old are you?"))
-question = input("are you brave?(yes/no)")
-if question == "yes" and user_age >= 10:
-    print(f"{user_name},{answer1}")
-else:
-    print(f"{user_name},{answer2}")
+# user_name = input("What is your name?")
+# user_age = int(input("How old are you?"))
+# question = input("are you brave?(yes/no)")
+# if question == "yes" and user_age >= 10:
+#     print(f"{user_name},{answer1}")
+# else:
+#     print(f"{user_name},{answer2}")
